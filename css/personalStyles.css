@@ -1,0 +1,83 @@
+/* Set body background color and font family */
+body {
+    background-color: #f0f0f0; /* Custom background color */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /* Font family */
+    color: #333; /* Font color */
+}
+
+/* Style the header */
+header {
+    background-color: #007bff; /* Header background color */
+    color: #fff; /* Header font color */
+    padding: 20px;
+}
+
+/* Style the navigation */
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+/* Style the main content area */
+#container {
+    margin: 20px;
+}
+
+/* Style the sections */
+section {
+    background-color: #fff; /* Section background color */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Style the image */
+#Fishing img {
+    width: 100%;
+    max-width: 500px;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Style the YouTube video */
+iframe {
+    margin: 20px auto;
+    display: block;
+}
+
+/* Style the Tableau graph placeholder */
+.tableauPlaceholder {
+    margin: 20px auto;
+    max-width: 800px;
+}
+
+/* Style the footer */
+footer {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Additional styles for divs */
+.div1 {
+    background-color: #ffa500; /* Orange background color */
+    color: #fff; /* Font color */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.div2 {
+    background-color: #6b8e23; /* Olive background color */
+    color: #fff; /* Font color */
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.div3 {
+    background-color: #8a2be2; /* Blue Violet background color */
+    color: #fff; /* Font color */
+    padding: 20px;
+    margin-bottom: 20px;
+}
